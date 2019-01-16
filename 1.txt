@@ -2,3 +2,4 @@
 zwj
 hello world
 hi,russia
+hi,jap
